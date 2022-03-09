@@ -1,5 +1,1 @@
-- 👋 Hi, I’m yeeeeeeter
-- 👀 I’m interested in github
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me no way
+
